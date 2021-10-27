@@ -13,11 +13,7 @@ Du'a Jaradat
 - [data-viz_a-Code]()
 - [data-viz_b-Code]()
 
-
-
 ---
-
-
 
 ## Feature Tasks and Requirements
 
