@@ -9,9 +9,9 @@ Du'a Jaradat
 
 ## Links and Resources
 
-- [Pull Request]()
-- [data-viz_a-Code]()
-- [data-viz_b-Code]()
+- [Pull Request](https://github.com/duajaradat/data-visualization/pull/1)
+- [data-viz_a-Code](https://github.com/duajaradat/data-visualization/blob/data-visualization/viz-a.ipynb)
+- [data-viz_b-Code](https://github.com/duajaradat/data-visualization/blob/data-visualization/viz-b.ipynb)
 
 ---
 

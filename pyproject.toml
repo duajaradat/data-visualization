@@ -8,6 +8,8 @@ authors = ["duajaradat <duajaradat164@gmail.com>"]
 python = "^3.9"
 matplotlib = "^3.4.3"
 seaborn = "^0.11.2"
+jupyter = "^1.0.0"
+lab = "^7.0"
 
 [tool.poetry.dev-dependencies]
 
